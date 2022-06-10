@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/googleapis/google-auth-library-java/compare/v1.7.0...v1.8.0) (2022-06-10)
+
+
+### Features
+
+* add build scripts for native image testing in Java 17 ([#1440](https://github.com/googleapis/google-auth-library-java/issues/1440)) ([#923](https://github.com/googleapis/google-auth-library-java/issues/923)) ([bbb51ce](https://github.com/googleapis/google-auth-library-java/commit/bbb51ce7a9265cb991739cd90e1ccf65675d05dc))
+
 ## [1.7.0](https://github.com/googleapis/google-auth-library-java/compare/v1.6.0...v1.7.0) (2022-05-12)
 
 
